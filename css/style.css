@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+:root{
+    --color:#56e6dcca;
+    --back:#b0cd82;
+    
+    
+}
+body{
+    width: 100%;
+    background-color: var(--color)
+}
